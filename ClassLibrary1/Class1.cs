@@ -10,7 +10,8 @@ namespace ClassLibrary1
     {
         public static void test()
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test update to git");
+            Console.WriteLine("Test update to git");
         }
     }
 }
