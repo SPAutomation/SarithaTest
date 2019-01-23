@@ -11,7 +11,8 @@ namespace ClassLibrary1
         public static void test()
         {
             Console.WriteLine("Test update to git");
-            Console.WriteLine("Test update to git");
+
+            Console.WriteLine("Uploading from VS");
         }
     }
 }
